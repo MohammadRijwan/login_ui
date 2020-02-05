@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           hintColor: Color(0xFFC0F0E8),
           primaryColor: Color(0xFF80E1D1),
           fontFamily: "Montserrat",
-          canvasColor: Colors.transparent),
+          canvasColor: Colors.transparent,
       home: Home(),
     );
   }
